@@ -20,12 +20,12 @@ A Windows batch script that bypasses the Cisco Packet Tracer login screen by blo
 
 1. **Download**: Clone this repository or download the `login.bat` file
    ```bash
-   git clone https://github.com/yourusername/packet-tracer-login-bypass-allversions.git
+   git clone https://github.com/smeags-2024/packet-tracer-login-bypass.git
    ```
 
 2. **Navigate to directory**:
    ```bash
-   cd packet-tracer-login-bypass-allversions
+   cd packet-tracer-login-bypass
    ```
 
 ## 💻 Usage
