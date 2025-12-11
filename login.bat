@@ -13,7 +13,7 @@ set app_name=ByPass Cisco Packet Tracer Login
 set "app_path="
 
 :: Check common Packet Tracer installation paths
-for %%v in (8.2.2 8.2.1 8.2.0 8.1.1 8.1.0 8.0.1 8.0.0 7.3.1 7.3.0 7.2.2 7.2.1 7.2.0) do (
+for %%v in (9.2 9.1 9.0 8.2.2 8.2.1 8.2.0 8.1.1 8.1.0 8.0.1 8.0.0 7.3.1 7.3.0 7.2.2 7.2.1 7.2.0) do (
     if exist "C:\Program Files\Cisco Packet Tracer %%v\bin\PacketTracer.exe" (
         set "app_path=C:\Program Files\Cisco Packet Tracer %%v\bin\PacketTracer.exe"
         goto found

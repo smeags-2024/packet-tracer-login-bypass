@@ -4,7 +4,7 @@ A Windows batch script that bypasses the Cisco Packet Tracer login screen by blo
 
 ## 🚀 Features
 
-- **Multi-Version Support**: Automatically detects Packet Tracer versions 7.2.0 through 8.2.2
+- **Multi-Version Support**: Automatically detects Packet Tracer versions 7.2.0 through 9.2
 - **Administrator Check**: Automatically requests elevated privileges when needed
 - **Simple Interface**: Easy-to-use menu system
 - **Reversible**: Can enable and disable the bypass as needed
@@ -14,7 +14,7 @@ A Windows batch script that bypasses the Cisco Packet Tracer login screen by blo
 
 - Windows operating system
 - Administrator privileges
-- Cisco Packet Tracer installed (versions 7.2.0 - 8.2.2 supported)
+- Cisco Packet Tracer installed (versions 7.2.0 - 9.2 supported)
 
 ## 🔧 Installation
 
@@ -63,6 +63,7 @@ The script works by:
 ## 🔍 Supported Versions
 
 The script automatically detects these Packet Tracer versions:
+- 9.2, 9.1, 9.0
 - 8.2.2, 8.2.1, 8.2.0
 - 8.1.1, 8.1.0
 - 8.0.1, 8.0.0  
